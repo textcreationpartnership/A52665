@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nations agrievance, (by way of address from loyal subjects) presented to His Majesty, the King of Great Brittain, for his favour, countenance and regard, relating to the countries election of their representatives in Parliament, and the due execution of justice, how they may be duly promoted according to the regularity of privileges, of both Prince and people.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52665</idno>
+            <idno type="STC">Wing N236</idno>
+            <idno type="STC">ESTC R11284</idno>
+            <idno type="EEBO-CITATION">12200631</idno>
+            <idno type="OCLC">ocm 12200631</idno>
+            <idno type="VID">56086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nations agrievance, (by way of address from loyal subjects) presented to His Majesty, the King of Great Brittain, for his favour, countenance and regard, relating to the countries election of their representatives in Parliament, and the due execution of justice, how they may be duly promoted according to the regularity of privileges, of both Prince and people.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56086:1" rendition="simple:additions"/>
+            <head>THE Nations Agrievance, (By way of Addreſs from Loyal Subjects) Preſented to his MAJESTY, THE King of Great Brittain.</head>
+            <head type="sub">For his Favour, Countenance and Regard, relating to the Countries Election of their Repreſentatives in Parliament; and the due Execu<g ref="char:EOLhyphen"/>tion of Juſtice, how they may be duly promoted according to the Re<g ref="char:EOLhyphen"/>gularity of Privileges, of both Prince and People.</head>
+            <opener>HUMBLY SHEWETH,</opener>
+            <p n="1">1. THat for as much as we, your Majeſties Loyal Subjects have been, and are, marvelouſly delivered and preſerved from evitable danger of deſtruction that did attend us, and hang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over our Heads, by means of the moſt deſperate ſubtil Deſigns, Plots, and Con<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ivances againt your Royal Perſon, Crown and Digni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies thereunto belonging; to the ſubverſion of the p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ien Gove<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nment as now eſtabliſhed, in theſe your Majeſties Domini<g ref="char:EOLhyphen"/>ons: and to the bringing in upon us (as a Flood) all the Conſequenſes of miſchief and miſeries, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt unavoidable have enſued ſuch Deſigns (of ho<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id Je<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uitrical and Papiſtical affected perſons) we undern<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>he conſideration hereof, do look on our ſelves obliged, for the Kingdoms ſafety and ha<g ref="char:EOLhyphen"/>nour (depending on your Majeſty) thus to apply our Supplications and Addreſs to your Princely favour for a ſpeedy Remedy and Redreſs of the Nations Grievance.</p>
+            <p n="2">2. That the Conſequences attending the Hel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh Deſigns of thoſe Plotters and Contrivers of Evil and miſchief un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a Nations Ruine and deſtruction are by the depoſing of their Loyal Prince, and uſurping of his Authority to themſelves; to have brought in Popery, Tiranny, and a Tirannical power over your Majeſties free born Sub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects (in the room and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Government they ſought to change and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervert) which as it is contrary to the Conſtitution of a free People, could not be borne or impoſe: on them without Slaughter and great effuſion of Blood.</p>
+            <p n="3">3. that notwithſtanding (by a timely prevention of a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger in thoſe evil and miſchievous Deſigns) the Egg was Cruſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before the Bird of Pray was hatch'd, upon wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Plotters and Deſign<g ref="char:EOLhyphen"/>ners of this contrived Evil and miſchief; yet we look not on our ſelves ſo ſafe and ſecure from the ſame, or dangers of the like kind; but that we have juſt Reaſon and occaſion of Jealouſie and fear that hidden ſparks of the ſame Fire may yet break fo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h into a worſe and more furious Flame than ever, if any ways ſhould be raked together in its Aſhes that which covets Fuel (or a combuſtible mat<g ref="char:EOLhyphen"/>ter) to feed its Hunger and Thirſt after a Nations Blood and miſery.</p>
+            <p n="4">4. That we your moſt loyal Subjects, for the future ſafety of your Royal Perſon, Crown and Dignities (and the preſerva<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of all Bites thereunto belonging) are reſolved, as looking on our ſelves thus obliged, to give your Majeſty our Aſſiſtance; that all Plotters and Contrivers of evil and miſchief againſt ſuch your Royal Perſon, and to the ſubverſion of the preſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Goverment (in theſe your Majeſties Dominions eſtab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhed) may be brought to a ſpeedy and condign punishment, (after a fair Trial at Law) anſwerable to the merrit of their horrid Fact and Deſerts.</p>
+            <p n="5">5. That we are reſolved (as loyal Subjects to ſuch your Majeſty) to endeavour the finding out all thoſe the Plotters and Contrivers of ſuch Evil and miſchief (againſt your Perſon, Honour, Crown and dignities thereunto belonging, and to preſent them, together with other the Na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions Grievan<g ref="char:EOLhyphen"/>ces, (by our Repreſentatives) before your Majeſty; in Order to the bringing ſuch Offenders to a fair Trial.</p>
+            <p n="6">6. That we your Majeſties Li<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e people conceiving ourſelves no ways Vaſſals of Tyranny, of to a Tirannical power, but Free Subjects to a Noble Prince and his Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncely Government (upon which Tiranny and violent Aſſaulters have been ſo apt (in all Ages) to uſurp) for theſe and many
+<pb n="2" facs="tcp:56086:2"/>other Reaſons (we ſay) eſpecially conſidering your Majeſties wiſdom to be ſuch, as to affect and chuſe all thoſe ways and means for the firm eſtabliſhing of the Crown and Dignities of the Gover<g ref="char:EOLhyphen"/>ment (ſo in Peace and perfect Tranquility) that may abſolutely unite your Subjects hearty affecti<g ref="char:EOLhyphen"/>ons to ſerve you, in ſuch the Goverment, ſubjecting with Delight, to the Yoke thereof; we on theſe Conſiderations, do think and believe we may juſtly expect from ſo Juſt and merciful a Prince, the Countenance of Juſtice upon your own and the Nations Enemies.</p>
+            <p n="7">7. That as Loyal Subjects (ready to ſerve their Prince and Country) we are as confident as infal<g ref="char:EOLhyphen"/>lible in our Reſolutions) to purſue un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Juſtice all occaſions of Evil and miſchief in the Caſe before mentioned; and becauſe a peoples diſaffection to the preſent State of Government eſtabliſhed (in theſe your Majeſties Dominions, are hence made diſcoverable (when Climbers after Dignities are at higheſt under the Diſguiſe of wrong, abuſe, and injuries) which hath been and dayll are done to Juſtice in theſe Caſes, reflecting upon ill occaſions taken to heighten ill affected perſons to ſuch the preſent State of Goverment, by your Princely favours, we are bold of our acceptance, and be<g ref="char:EOLhyphen"/>cauſe furthermore, whilſt to them (who nevertheleſs they have been and are highly promoted and advanced unto Offices and great places of Truſt, is no ſelf ſecurity of holding and enjoying what they have climbed up unto, or are crept into; without a ſubverſion and change in the Face of ſuch that Government, which hath power to call them to Account for miſapplying and miſpending opper<g ref="char:EOLhyphen"/>tunities put into thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hands to have done both their Country and themſelves good ſervice.</p>
+            <p n="8">8. Thot we are reſolved in all Duty to our Liege Prince, to purſue your Majeſties Order and Command relating to our Election o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Choice of Members for the chief and great Counſel (to be holden by privilege of Parliament) <hi>v z</hi> to chuſe as the Kingdoms Repreſentatives, Men fearing God, and having Covetouſneſs, <hi>&amp;c.</hi> And that may be no ways partial in their Counſel and advice to your Majeſty, to preſent before you, the Common peoples Grievances; for the remiding of which, and whatever elſe is or may be amiſs, we implore their Zeal and fervency, under your Majeſties Countenance, to be mannaged with an Impartial hand towards all Offenders of what Degree or Quality ſoever.</p>
+            <p n="9">9. That all Court-Officers, Militia-Officers, Pentioners, and other Indigent Officers, of what Degree or Quality ſoever, are not in the apprehenſion of the Common people and your Majeſties Loyal Subjects, accounted compitent in their Judgments for your Majeſties great Counſel and Adviſors about ſuch mighty matters and Caſes wherein Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liaments ought to be imployed and concerned, but upon Trial many of them have been found the Imbezelers of your Majeſties and the Nations Treaſure, the exhauſters of things, againſt which we are ſeeking a Remedy and Redreſs, the cauſe of grievances and dayly complaints, the Countenancing of things attend<g ref="char:EOLhyphen"/>ing to your Majeſties Indignity and the peoples miſery, ſo they alſo are made an inlet to future and further occaſions of our fears and Jealouſies.</p>
+            <p n="10">10. That our Reaſons why the beforementioned perſons are not eſteemed compitent in their Judgments for Counſel and a vice to your Majeſty in State Affairs, are, becauſe theſe having parti<g ref="char:EOLhyphen"/>cular pentions from, or dependance upon your Majeſties favour and Charity, upon which account other places and Offices of Truſt alſo have been and are committed to them, in the ordering and diſpoſe of your Majeſties and the Kingdoms Treaſure, leſt they ſhould be called to aſtrict account, therefore they have found ways and means to evadean impartial and due Repreſentation of things as they are, namely, the Nations Grievance; and to this end, do endeavour every one according to that wherein lies and depends his own particular concern and Intereſt, to put a ſtop to all due Execu<g ref="char:EOLhyphen"/>tion of Juſtice (in theſe caſes) whereby, as the cauſe by ſuch is augmented, both your Majeſty and good Subjects are wronged and abuſed, and complaints thereof dayly multiplied and increas'd, the Conſequences of which muſt of neceſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y end in a Nations Diſtruction and Ruine; while the dirt of their diſhonourable Actions, by many diſaffected to the preſent Goverment, is ſo apt to be flung in and upon the Face of your Princely favour.</p>
+            <p n="11">11. That notwithſtanding, we have made our exceptions (upon good Grounds and Reaſons be<g ref="char:EOLhyphen"/>forementioned, againſt ſome unfit Members for your chief and general Counſel in ſo great a work, eſpecially ſuch as go under the Denomination of Papiſts; yet we neither crave or except in theſe Caſes, any limitation to be put upon the Countries Choice, other ways than is expreſſed in your Ma<g ref="char:EOLhyphen"/>jeſties Writs to them directed, which they ought to purſue in obedience to your Princely favours and Command therein, but we only offer theſe things unto your Majeſties favour and Countenance and to the Country, as matters reaſonable and equal, and that for ſuch Reaſon (according to Ju<g ref="char:EOLhyphen"/>ſtice) we may expect will be heard and purſued by the Voters.</p>
+            <p n="12">12. That as a free people, we requeſt in all humble duty and ſubmiſſion to your Majeſties Roy<g ref="char:EOLhyphen"/>al Command, we may have our free Votes, in the Election and choice of a free Parliament, for our Repreſentatives, and that thoſe your moſt loyal Subjects ſhall be no ways over-awed, threatned or bribed, to pleaſure the Wills and humors of ſuch whoſe Intereſt (though it be to Compliment and flatter your Majeſty) runs Counter againſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll true Service to their King and Country; and it being contrary to the Conſtitution of the Goverment, under which we live, and privileges that a free people may expect to enjoy, under ſo noble a Prince, to have any thing unequal or unjuſt, and vio<g ref="char:EOLhyphen"/>lently impoſed or forc'd on them, as to their free choice of a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Parliament if any ſuch thing be perceive endavoured, ſo as to make another Club of Voters in the Houſe of Commons; we think and believe, from ſo wiſe and juſt a Prince, we may juſtly expect what we herein humbly pray and beſeech.</p>
+            <div type="part">
+               <head>Theſe things premiſed, may it pleaſe your Majeſty, we humbly offer by way of ſupplication, and do in all Duty to your Commands,</head>
+               <opener>Humbly pray,</opener>
+               <p n="1">1. That in tender Conſideration of the Nations grievances, your Majeſty will be pleaſed, not
+<pb n="3" facs="tcp:56086:2"/>only to take notice thereof, and of our humble Adreſs to your Majeſties favours, for the remeding and redreſs of theſe things, and all others amiſs, in State Affairs, but in Order thereto you alſo will be further pleaſed in your Princely Care of your own and the Kingdoms ſafety, and for the preſervation of your Crown and Dignities thereunto belonging, in a right line, to ſhew and extend your Princely Favour and Countenance to the grieved, at the beforementioned miſcarriages, by which our Ears are filled with the Cries and dayly Complants of the burthened and oppreſſed, pro<g ref="char:EOLhyphen"/>ceeding from Cauſes of a Nations miſery.</p>
+               <p n="2">2. Than your ſeverity towards Incorridgable, and obſtinate Offenders, for whom all juſt Laws were made and provided, unto which, in and according to Juſtice, they are appointed, together with your Clemency and favour, in Mercy ſhewen towards the penitent, may run parallel with the occaſions for a due Adminiſtration of either juſtice or mercy, and that you would be pleaſed to ex<g ref="char:EOLhyphen"/>tend your mercy and favour towards penitents, who under any Remorſe of Guilt are to apt to make an ingenious Confeſſion and acknowledgment of their Crimes and Fact, acquittable, on theſe very tearms and no other; and that then the Evidence and teſtimony of ſuch may not be diſcountenan<g ref="char:EOLhyphen"/>ſed, or made Invalued, for any Cauſe or ſake, in any of your Majeſties Courts of Judicature.</p>
+               <p n="3">3. That in your diſcountenance of the one by the Countenance of the other, your Majeſty will be pleaſed according to ſuch your Princely care, by the advice of your chief and great Counſel of Parliament, and your loyal Subjects Repreſentatives, to appoint how ſhall be provided, the way and mean by which all theſe things man be ſpeedily remedied and redreſſed, that are amiſs; and that your favour and countenance for the future, may be no ways evil ſpoken of, miſapprehended, and thus abuſed, your Majeſty will be pleaſed to make a true diſtinction, as between Subjects of your pleaſure and favour, or diſpleaſure and frown, ſo alſo between obſtinately guilty, and penitent Of<g ref="char:EOLhyphen"/>fenders againſt known Laws upon which the breach hath been made.</p>
+               <p n="4">4. That in your Princely Care to prevent Conſpiracies, Seditions, and ſeditious plots and plotters Contrivances and Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trivers, to ſubvert the preſent Goverment, as in theſe your Dominions eſta<g ref="char:EOLhyphen"/>bliſhed, with all other incendiaries to evil and miſchief of this kind, againſt a Nation, Prince and his Authority; your Majeſty will pleaſe to appoint and make proviſion of a way and means, how your diſpleaſure and diſcountenance to ſuch perſons and practiſers, may ſafely be diſtinguiſhed from your favour and Countenance towards thoſe that cleave cloſe to you in the encounter againſt the ſame and that have been and are willing to labour and take pains for making a true diſcovery of theſe things as they are.</p>
+               <p n="5">5. That as the only way truly to unite the hearts of your Subjects unto your Majeſty for ſuch your Princely favours, in Juſtice to theſe your Subjects, and that in theſe beforementioned cauſes of abuſe unto the Countries Choice in your princely Wiſdom and Care over your peoples Rites and privileges, under an equal dependance with your own, upon the Royalty of your prerogarive, your Majeſty will be pleaſed to take notice thereof, ſo as to check, diſcountenance, and put a ſtop to all growing evils, the ill conſequenſes of this diſtemper; and hence may you expect your Name famous in Generations to come.</p>
+               <p n="6">6. That by taking notice of your Loyal Subjects Grievances, to the putting a check and reſtraint upon the occaſion and occaſioners thereof, and by allowing your Subjects juſt Rites and privileges as a free people, your Majeſty will be pleaſed to manifeſt your tender care to maintain ſuch the Rites between Prince and people, as may ſo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mly eſtabliſh your own Royal prerogative that as one man, with one conſent, the hearty affections of your people and Subjects may be ſo kni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to you, and ready to ſerve you, that like a Bullwork, or Citty walled with B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſs, nothing that is hurthul may be able to paſs or enter you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fortreſs, or make a breach upon ſo happy a League, under which your Crown and Dignites thereunto belonging, may be defended and preſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved from Injuries of the like kind; as theſe lately attending us.</p>
+               <p n="7">7. Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not only as our Phiſitian, but as a healing Balm to our wounded minds with diſtractions your Majeſty will be pleaſed to teſtity your Simpathy therewith, and a Ready Compliance with what ever may make for your own and Subjects ſafety, towards our Amendments and Recovery to our deſired Health: and that in O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er thereto, you will be pleaſed ſo to take Care, that a means may be provided to purge and take away from your privy Counſel, and ou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f all Offices of Truſt in theſe your Majeſties Dominions, the diſaffected to Goverment, under what name or of what De<g ref="char:EOLhyphen"/>gree and Quality ſoever, that your Majeſties integrity, as a Father to his Country may appear, in ſuch Splendor and Brightneſs, that may dazel the Eyes of the Malignant-ſpiritted, and ſtop the Mouth of all Gainſayers, and make Tyrants, or Uſurpers upon your power, Crown and Dignities, to tremble and be aſhamed of their Enterpriſes.</p>
+               <p n="8">8. That in your Diſcountenance to your own and the Nations Enemies, your Majeſty will be pleaſed to Countenance your loyal Subjects in every Act that attends to the making glorious and flouriſhing your Throne, Crown and Dignities thereto belonging; and to that end may be pleaſed to extend your Princely favour towards thoſe that cannot connive and wink at things attending to the Nations Ruine, but are therefore Zealous to call to account the Exhauſters and Imbezellers of your Majeſties and your Countries Treaſure, and other miſdeeds, that they the Offenders do reſt and reflect upon ſuch your Majeſties favour under which, as ill affected perſons to the preſent State of Goverment, many are unto ſuch the Nations Grievance, climbed up high, and have crept in<g ref="char:EOLhyphen"/>to Dignities or Offices and places of great Truſt who when thus promoted, do ſhew their Venom and Sting, againſt what ever ſhould check or put a ſtop to their extravigant Fancy.</p>
+               <p n="9">9. That of the wrong, abuſe and injuries done to your Princely Favours, Crown and Dignities, by ill Members of ſuch your Countenance and of a Realm or Common-Wealth, you in your Princely Wiſdom will be pleaſed to take notice, and that theſe things are occaſioned by ſuch who indeavour
+<pb n="4" facs="tcp:56086:3" rendition="simple:additions"/>to palliate and diſguiſe all their Deſigns under the Habit of Miniſters of State, and who under the wing and protection of that Goverment (unto whom they are utter Enemies) do La<g ref="char:EOLhyphen"/>bour to ſow the ſeditious ſeed before mentioned; becauſe under the ſame they are thus Liable to be called to account for ſuch the abuſe of your Majeſties favour and power into their hands put and committed; which they have no ways to remedy or evade, and hold themſelves ſecure in theſe Offices and great places of Truſt, but by plotting and contriving the ſubverſion or Change of ſuch the preſent Goverment: And alſo we humbly pray and beſeech, that your Majeſty will be pleaſed to take Notice of the Reaſons why your people and moſt Loyal Subjects do think they ought hereat to be concerned.</p>
+               <p n="10">10. That not only allowing the Antient privileges and Cuſtoms in theſe Caſes provided of the peoples Repreſentatives, called Parliaments, but alſo their Authority, for the que<g ref="char:EOLhyphen"/>ſtioning of ſuch miſcarriages, before mentioned, wherein are not purſued the very expreſs words directed by your Writs to all Voters in the Election (of ſuch their Repreſentatives) your Majeſty will pleaſe to take notice of a way and means to prevent the abuſe of ſuch your Princely favour, by any that may covertly bandon themſelves againſt the ſame (to the caſting back on your Majeſty the Reflection of their miſdeeds) that by putting themſelves to a Charge and expence (for the purchaſing the favour of a Countries Votes in their be<g ref="char:EOLhyphen"/>half, is not that they may be in a Capaſity to ſerve their King and Country; but rather is a means (by them contrived) that they may be the better able to ſerve them<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elves, by thus caſting the Reflection of ſuch their miſdeeds on your Princely favours; and that unto a Nations Ruin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) while they are making an abſolute Gain and Prey on your good ſubjects, who may not preſently have their Eyes open to ſee the Evil attendancy of ſuch Covert Bribery, who by perverting the prime and main end of an Election (for your Majeſties chief and great Counſel and the Countries Repreſentatives) do in the main hereof, purſue a way whereby a ſtop is put to the very Current of Juſtice ſo perverted by Bribery) name<g ref="char:EOLhyphen"/>ly Guifts and Rewards; that end it moſt unavoidably in a Nations Ruine, unleſs timely prevented.</p>
+               <p n="11">11. That to prevent theſe miſcarriages before mentioned, together with all falſe Re<g ref="char:EOLhyphen"/>turns which may be otherways made or the E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctors or Elections, upon your Writs for the purpoſe directed to the Sherifs and other Officers of Counties, Cities, or Burroughs, <hi>&amp;c.</hi> which alſo is a way to prevent the abuſe of your Majeſties and your Countries favour and truſt relating to their Election of fit perſons for their Repreſentatives in Parliament that Kings chief and great Counſel; your Majeſty will be pleaſed that ſuch Returns be made un<g ref="char:EOLhyphen"/>to the Countries your good Subjects ſatisfaction certified under the hand of the Voters or Electors, in whom Reſteth the Right or privilege of chuſing the makers of ſuch Laws unto whom they are contented to ſubmit, and by the ſame in all Caſes to be tried, and that thereby, ſuch abuſes as hath been both to your Princely favour towards Parliaments and of Parliaments themſelves the Countries Repreſentatives may be rectified and amended to the praiſe of your Majeſties fraternal Care and Regard over ſuch your own and good Subjects Rites and privileges.</p>
+               <p>That the before mentioned vaſt Charge of maintaining Feaſtings and Riottings (in the ſeveral Counties of the Country of the Voters and Electors, coming under the conſidera<g ref="char:EOLhyphen"/>tion of guifts and rewards (from theſe expective voted, beſtowed upon the Voters) to pur<g ref="char:EOLhyphen"/>chaſe the favour of ſuch their Votes, ſeeing Guifts and Rewards are ſaid to blind the eyes of the wiſe (may it pleaſe your Majeſty) and as are all Guifts and Rewards for the purchaſe of Juſtice (in the ſtricteſt ſenſe of things) deemed and accounted Bribery; ſo in like manner Briberies (unto the Laws Executioners) as they are made, by Guifts and Rewards, are by thoſe that ſtrive to be Law makers Briberies of the like kind; and is ſuch a ſort of Bribery, that perverts Juſtice as well as the due Execution thereof, in its very Root; Bri<g ref="char:EOLhyphen"/>bery being held and deemed the only means to pervert the due ordination, and put a ſtop to the right Execution of Juſtice in a Realm or Common-wealth.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
